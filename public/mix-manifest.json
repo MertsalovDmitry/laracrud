@@ -1,0 +1,12 @@
+{
+    "/js/laravel.js": "/js/laravel.js",
+    "/css/laravel.css": "/css/laravel.css",
+    "/js/bootstrap3-typeahead.min.js": "/js/bootstrap3-typeahead.min.js",
+    "/js/moment.min.js": "/js/moment.min.js",
+    "/js/jquery.inputmask.js": "/js/jquery.inputmask.js",
+    "/js/inputmask.date.extensions.js": "/js/inputmask.date.extensions.js",
+    "/js/inputmask.extensions.js": "/js/inputmask.extensions.js",
+    "/js/bootstrap-datepicker.min.js": "/js/bootstrap-datepicker.min.js",
+    "/js/select2.full.min.js": "/js/select2.full.min.js",
+    "/js/jquery.dataTables.min.js": "/js/jquery.dataTables.min.js"
+}

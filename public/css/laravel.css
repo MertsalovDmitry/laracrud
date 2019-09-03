@@ -1,0 +1,16 @@
+.mb-30 {
+  margin-bottom: 40px;
+}
+
+#employee-image {
+  width: 20%;
+}
+
+ul.typeahead {
+  width: 100%;
+}
+
+.has-error .select2-selection {
+  border-color: #b94a48 !important;
+}
+
