@@ -28,7 +28,7 @@
         "bootstrap-datepicker": "^1.9.0",
         "datatables": "^1.10.18",
         "inputmask": "^4.0.8",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "select2": "^4.0.10",
         "bootstrap": "3.3.7"
     }
